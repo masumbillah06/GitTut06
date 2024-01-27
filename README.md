@@ -1,1 +1,1 @@
-# GitTut06
+# Git Tutorial
