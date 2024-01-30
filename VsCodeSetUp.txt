@@ -1,0 +1,9 @@
+- make two file 
+- input.txt and output.txt
+- open them in vscode an position them like sublime code
+- paste the following code in main functoin
+
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+#endif
